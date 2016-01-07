@@ -1,0 +1,7 @@
+[Plymouth Theme]
+Name=Gooroom-01
+Description=Gooroom default theme
+ModuleName=gooroom-01
+
+[gooroom-01]
+ImageDir=/usr/share/plymouth/themes/gooroom-01
