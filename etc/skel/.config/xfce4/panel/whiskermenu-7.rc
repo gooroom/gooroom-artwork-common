@@ -1,4 +1,4 @@
-favorites=xfce-backdrop-settings.desktop,gnome-control-center.desktop,font-panel.desktop,display-panel.desktop,theme-panel.desktop
+favorites=xfce-backdrop-settings.desktop,gooroom-control-center.desktop,font-panel.desktop,display-panel.desktop,theme-panel.desktop
 recent=xfce-backdrop-settings.desktop
 button-title=구름
 button-icon=xfce4-whiskermenu
@@ -20,7 +20,7 @@ position-categories-alternate=false
 menu-width=325
 menu-height=400
 menu-opacity=40
-command-settings=gnome-control-center --overview
+command-settings=gooroom-control-center --overview
 show-command-settings=true
 command-lockscreen=xflock4
 show-command-lockscreen=true
