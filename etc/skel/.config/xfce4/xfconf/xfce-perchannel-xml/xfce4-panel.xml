@@ -13,7 +13,6 @@
         <value type="int" value="7"/>
         <value type="int" value="8"/>
         <value type="int" value="10"/>
-        <value type="int" value="9"/>
         <value type="int" value="3"/>
         <value type="int" value="15"/>
         <value type="int" value="6"/>
@@ -57,14 +56,6 @@
     </property>
     <property name="plugin-7" type="string" value="whiskermenu"/>
     <property name="plugin-8" type="string" value="showdesktop"/>
-    <property name="plugin-9" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="14429861921.desktop"/>
-      </property>
-      <property name="disable-tooltips" type="bool" value="false"/>
-      <property name="show-label" type="bool" value="false"/>
-      <property name="move-first" type="bool" value="true"/>
-    </property>
     <property name="plugin-10" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="14429865065.desktop"/>
