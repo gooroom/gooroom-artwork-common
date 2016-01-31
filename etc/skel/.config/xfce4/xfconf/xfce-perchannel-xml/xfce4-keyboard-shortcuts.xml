@@ -29,7 +29,19 @@
       <property name="XF86WWW" type="string" value="exo-open --launch WebBrowser"/>
       <property name="&lt;Super&gt;e" type="string" value="xfce4-appfinder --collapsed"/>
       <property name="&lt;Super&gt;l" type="string" value="xflock4"/>
-      <property name="&lt;Super&gt;p" type="string" value="xfce4-display-settings --minimal"/>
+      <property name="&lt;Super&gt;c" type="string" value="gooroom-control-center"/>
+      <property name="&lt;Super&gt;f" type="string" value="gooroom-control-center font"/>
+      <property name="&lt;Super&gt;r" type="string" value="gooroom-control-center region"/>
+      <property name="&lt;Super&gt;t" type="string" value="gooroom-control-center theme"/>
+      <property name="&lt;Super&gt;n" type="string" value="gooroom-control-center network"/>
+      <property name="&lt;Super&gt;d" type="string" value="gooroom-control-center display"/>
+      <property name="&lt;Super&gt;m" type="string" value="gooroom-control-center mouse"/>
+      <property name="&lt;Super&gt;s" type="string" value="gooroom-control-center sound"/>
+      <property name="&lt;Super&gt;a" type="string" value="gooroom-control-center power"/>
+      <property name="&lt;Super&gt;k" type="string" value="gooroom-control-center keyboard"/>
+      <property name="&lt;Super&gt;p" type="string" value="gooroom-control-center printers"/>
+      <property name="&lt;Super&gt;d" type="string" value="gooroom-control-center datetime"/>
+      <property name="&lt;Super&gt;u" type="string" value="gooroom-control-center user"/>
       <property name="&lt;Primary&gt;Escape" type="string" value="xfdesktop --menu"/>
       <property name="override" type="bool" value="true"/>
     </property>
