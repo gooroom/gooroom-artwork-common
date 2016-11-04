@@ -7,5 +7,4 @@ Standards-Version: 3.7.2
 
 Package: gooroom-artwork-common
 Architecture: all
-Depends: uim, uim-byeoru
 Description: Gooroom Platform User Environments files
