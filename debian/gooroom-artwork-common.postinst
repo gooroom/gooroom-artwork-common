@@ -3,7 +3,7 @@ set -e
 
 if [ "$1" = configure ]; then
     update-alternatives --install /usr/bin/uim-toolbar uim-toolbar \
-        /usr/bin/uim-toolbar-gtk-systray 95
+        /usr/bin/uim-toolbar-gtk3-systray 95
 
     ## TODO. Hangul input processing if you create a login ID and other ID
     chmod 777 /usr/bin/uim-xim
