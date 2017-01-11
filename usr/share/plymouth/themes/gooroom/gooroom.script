@@ -1,4 +1,4 @@
-logo.image = Image("gooroom_bg_01.png");
+logo.image = Image("gooroom_bg_17_logo.png");
 
 logo.sprite = Sprite(logo.image);
 logo.sprite.SetX (Window.GetWidth() / 2 - logo.image.GetWidth() / 2);
