@@ -1,3 +1,18 @@
+gooroom-artwork-common (1.1.0+grm1) jessie; urgency=medium
+
+  [ cjheo ]
+  * [03776d22] Add new wallpapers
+  * [0ccccfab] Remove uim dependency
+
+  [ jongkyung.woo ]
+  * [b2341cae] update debian/compat to 5
+  * [fb8dd50f] support a uim-toolbar-gtk3-systray in uim
+  * [d97d3a97] Change the bootsplash image to gooroom_bg_17_logo.png
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Wed, 08 Feb 2017 17:07:35 +0900
+
 gooroom-artwork-common (1.0.1+grm1) jessie; urgency=medium
 
   [ gooroom ]
