@@ -48,9 +48,10 @@ install: build
 
 	# Add here commands to install the package into debian/gooroom-artwork-common
 	#$(MAKE) install DESTDIR=$(CURDIR)/debian/gooroom-artwork-common
-	mkdir -p $(CURDIR)/debian/gooroom-artwork-common
+	mkdir -p $(CURDIR)/debian/gooroom-artwork-common/root
 	cp -r $(CURDIR)/usr $(CURDIR)/debian/gooroom-artwork-common/
 	cp -r $(CURDIR)/etc $(CURDIR)/debian/gooroom-artwork-common/
+	cp -r $(CURDIR)/etc/skel/.uim.d $(CURDIR)/debian/gooroom-artwork-common/root
 
 # Build architecture-independent files here.
 binary-indep: build install
