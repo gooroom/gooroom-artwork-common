@@ -1,3 +1,12 @@
+gooroom-artwork-common (1.1.1+grm1) jessie; urgency=medium
+
+  [ jongkyung.woo ]
+  * [73830c22] [Bug:192] Apply the same uim settings to the root account
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Fri, 07 Apr 2017 14:24:58 +0900
+
 gooroom-artwork-common (1.1.0+grm1) jessie; urgency=medium
 
   [ cjheo ]
