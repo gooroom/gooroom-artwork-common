@@ -1,4 +1,5 @@
 usr/bin
 usr/share/themes
 etc/skel
+etc/xdg/autostart
 root
