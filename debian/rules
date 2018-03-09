@@ -51,7 +51,7 @@ install: build
 	mkdir -p $(CURDIR)/debian/gooroom-artwork-common/root
 	cp -r $(CURDIR)/usr $(CURDIR)/debian/gooroom-artwork-common/
 	cp -r $(CURDIR)/etc $(CURDIR)/debian/gooroom-artwork-common/
-	cp -r $(CURDIR)/etc/skel/.uim.d $(CURDIR)/debian/gooroom-artwork-common/root
+	#cp -r $(CURDIR)/etc/skel/.uim.d $(CURDIR)/debian/gooroom-artwork-common/root
 
 # Build architecture-independent files here.
 binary-indep: build install
