@@ -1,0 +1,120 @@
+gooroom-artwork-common (1.2.1+grm2u1) jessie; urgency=medium
+
+  [ cjheo ]
+  * [6f40e97b] Added background image for panel
+  * [ce7fee0b] Removed XFCE window theme for gooroom-2.0
+  * [dd129394] Commit for building
+  * [1bc0b265] Added background images
+  * [9b2f06a4] Added MIME type for HWP
+
+  [ HaeRyong Jeong ]
+  * [407f7917] Added theme background images
+
+  [ jongkyung.woo ]
+  * [cb0875af] Changed GRUB_BACKGROUND image on gooroom-2.0
+  * [ef3cc71a] Clean up plymouth themes
+  * [dece8c2b] Updated compat and install files
+  * [ec87a2b7] Modified copyright
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Sun, 01 Dec 2019 17:01:42 +0900
+
+gooroom-artwork-common (1.1.3+grm1u1) jessie; urgency=medium
+
+  [ jongkyung.woo ]
+  * [f43fe26c] Enabled only when using the notebook's keyboard right Alt as Hangul key
+  * [304f8be5] Added exception handling to check if uim-toolbar exists in postinst
+  * [9c4f4aa3] Added a new default background and bootloader image
+  * [13e85d72] Removed etc/skel/.uim.d
+
+  [ cjheo ]
+  * [ec3553b6] Adding thumbnail image for some themes
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Wed, 14 Mar 2018 18:49:38 +0900
+
+gooroom-artwork-common (1.1.2+grm1) jessie; urgency=medium
+
+  [ jongkyung.woo ]
+  * [8390929a] Modified bad traces in gooroom_bg_17_log.png
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Fri, 28 Apr 2017 14:09:40 +0900
+
+gooroom-artwork-common (1.1.1+grm1) jessie; urgency=medium
+
+  [ jongkyung.woo ]
+  * [73830c22] [Bug:192] Apply the same uim settings to the root account
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Fri, 07 Apr 2017 14:24:58 +0900
+
+gooroom-artwork-common (1.1.0+grm1) jessie; urgency=medium
+
+  [ cjheo ]
+  * [03776d22] Add new wallpapers
+  * [0ccccfab] Remove uim dependency
+
+  [ jongkyung.woo ]
+  * [b2341cae] update debian/compat to 5
+  * [fb8dd50f] support a uim-toolbar-gtk3-systray in uim
+  * [d97d3a97] Change the bootsplash image to gooroom_bg_17_logo.png
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Wed, 08 Feb 2017 17:07:35 +0900
+
+gooroom-artwork-common (1.0.1+grm1) jessie; urgency=medium
+
+  [ gooroom ]
+  * [eb77e201] fixed screen tearing problem in xfwm
+  * [04b2779d] add Gooroom-Flat-01 themes and add gooroom/gooroom_bg_01.jpg
+  * [56d44c56] change the clock form in the panel to digital-format
+  * [2bc6c3b8] enable Antialias value to 1 in xsettings.xml
+  * [c2b954d9] add background 01~06 images, splash and grub images
+  * [ea8cb7f5] add min_clock in desktop with conky
+  * [107cd33a] update whiskermenu-7.rc
+  * [d7cb5e13] update xfconf/xfce-perchannel-xml
+  * [3ca36d6d] update backgroud image to gooroom_bg_01.jpg
+  * [9f8fcd0c] add thunar-volman-xml
+  * [dfd4e7fd] enable command-settings to gnome-control-center in whiksermenu
+  * [7348b4cd] add Window hotkey Super_L
+  * [384910c4] add xfce4-screenshooter at Print key
+  * [32ff7f79] remove userinfo in panel
+  * [3b9c5d16] using collapsed option at xfce4-appfinder in Super_E hotkey
+  * [3c61ee46] rename the gnome-control-center to gooroom-control-center
+  * [4f55618d] enable canberra-gtk-module and specifies SoundThemeName to Default in freedesktop theme
+  * [a8367a86] change to chmod 644 .conkyrc
+  * [a77db9cc] add libcanberra-gtk-module to gtk-modules
+  * [d2edd6c6] modify default browser iceweasel to midori
+  * [10d46c11] change SoundThemeName to freedesktop
+  * [d6f5f9c0] update 20160127
+  * [172a6451] add epiphany and remove xfce-terminal at panel
+  * [cc607ee4] set SoundThemeName to freedesktop
+  * [be27ce6e] Register Super key value of the applications in the control penel
+  * [04c8e9ed] modify desktop/ibus/engine/hangul/word-commit to true
+  * [9c580285] add 2th themes backgrouds
+  * [f0b62c6d] remove /etc/skel/.config for gooroom-artwork-xfce
+  * [c7647b1f] 알파 버전 백그라운드 이미지 추가
+  * [d0bd9fac] uim 입력기 설정 등록
+  * [8766b71c] uim-toolbar 명령의 uim-toolbar-gtk-systray의 update-alternatives를 최우선순위 95로 설정
+  * [d89d4b7d] uim, uim-byeoru 패키지 의존성 추가
+  * [77d28a17] 로그인한 ID와 다른 ID로 생성한 경우의 한글 입력 처리
+  * [e7f56842] 키보드 한/영키로 입력 전환
+
+  [ jongkyung.woo ]
+  * [dbf5e8c2] plymouth gooroom 테마 설정 변경
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Thu, 26 May 2016 16:28:36 +0900
+
+gooroom-artwork-common (1.0) jessie; urgency=medium
+
+  * Initial release. 
+
+ -- gooroom <gooroom@gooroom.kr>  Thu, 24 Sep 2015 15:38:27 +0900
