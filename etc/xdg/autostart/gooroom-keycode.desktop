@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=gooroom keycode setting
+Exec=gooroom-keycode
+NoDisplay=true
