@@ -1,3 +1,15 @@
+gooroom-artwork-common (1.3.1+grm2u1) jessie; urgency=medium
+
+  [ HaeRyongJeong ]
+  * [77df0dd2] Removed hwp mimetypes
+
+  [ jongkyung.woo ]
+  * [67014899] Added gooroom-keycode
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Tue, 07 Jul 2020 12:07:59 +0900
+
 gooroom-artwork-common (1.2.1+grm2u1) jessie; urgency=medium
 
   [ cjheo ]
