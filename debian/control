@@ -2,8 +2,8 @@ Source: gooroom-artwork-common
 Section: admin
 Priority: optional
 Maintainer: gooroom <gooroom@gooroom.kr>
-Build-Depends: debhelper (>= 5)
-Standards-Version: 3.7.2
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
 Homepage: http://www.gooroom.kr
 Vcs-Git: https://github.com/gooroom/gooroom-artwork-common.git
 Vcs-Browser: https://github.com/gooroom/gooroom-artwork-common
