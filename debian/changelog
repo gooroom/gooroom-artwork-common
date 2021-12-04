@@ -1,3 +1,13 @@
+gooroom-artwork-common (1.3.2+grm3u1) unstable; urgency=medium
+
+  [ jongkyung.woo ]
+  * [65c5590f] Rebuild on gooroom-3.0
+
+  [ boyeon.choi ]
+  * [109a3811] Added background gooroom_theme_bg_4.jpg
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Sat, 04 Dec 2021 16:03:59 +0900
+
 gooroom-artwork-common (1.3.1+grm2u1) jessie; urgency=medium
 
   [ HaeRyongJeong ]
